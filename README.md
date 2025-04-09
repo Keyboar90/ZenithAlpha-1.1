@@ -5,7 +5,7 @@ Python application:
 
 Version 1.1.
 
-Update: March 25, 2025
+Release: March 25, 2025
 
 Link to download:
 **http://www.internationalesportwagengalerie.de/Linoz%20Developments/Products/ZenithAlpha%201.1.exe**
